@@ -3,6 +3,6 @@
 
 ## Development server
 
+Run `npm server`
 Run `ng serve` 
-
 
